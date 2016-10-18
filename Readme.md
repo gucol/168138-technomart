@@ -1,7 +1,7 @@
-# Личный проект «Техномарт»
+# «Техномарт»
 
 * Студент: [Любовь Гулько](https://up.htmlacademy.ru/htmlcss/14/user/168138).
-* Наставник: [Евгений Котов](https://htmlacademy.ru/profile/id25083).
+* Наставник: [Шамиль Алисултанов](https://htmlacademy.ru/profile/id13948).
 
 ---
 
